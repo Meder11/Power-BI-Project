@@ -1,2 +1,4 @@
-# Power-BI-Project
-This is a simple project done using Power BI to find out why ABC company keeps having high priority ticket. ABC Company's high number of ticket are caused by syste failures or access/login issues, given that these departments handle large volume of tickets. Unassigned ticket also fall into high priority categogies, delaying responses and resolution.
+Welcome to the Power BI Data Analysis repository! This is where I will be sharing various data analysis projects, reports, and dashboards created using Power BI. Each project will focus on different datasets and analytical techniques, showcasing my ability to visualize and extract insights from data.
+
+Purpose:
+This repository is dedicated to showcasing Power BI visualizations and data analysis. It contains a range of Power BI files (.pbix) for different datasets, highlighting key metrics and trends through interactive reports and dashboards.
